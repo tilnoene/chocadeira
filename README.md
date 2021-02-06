@@ -1,4 +1,5 @@
 <h1 align="center">
+    <img alt="Chocadeira com Arduino" src="./assets/banner_chocadeira.jpg" />
     🐔 Chocadeira com Arduino
 </h1>
 <p align="center">Chocadeira automática de baixo custo utilizando Arduino</p>
