@@ -19,7 +19,7 @@
     <ul>
         <li><a href="#-materiais">🧰 Materiais</a></li>
         <li><a href="#%EF%B8%8F-esquemático">✍️ Esquemático</a></li>
-        <li><a href="#%EF%B8%8F-construção">🔨 Construção</a></li>
+        <li><a href="#construção">🔨 Construção</a></li>
         <li><a href="#%EF%B8%8F-carregando-para-o-arduino">⚙️ Carregando para o Arduino</a></li>
     </ul>
     <li><a href="#-autor">💭 Autor</a>
