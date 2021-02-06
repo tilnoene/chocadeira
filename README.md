@@ -15,7 +15,7 @@
     <li><a href="#-sobre-o-projeto">💬 Sobre o projeto</a></li>
     <li><a href="#-resultados">✔️ Resultados</a></li>
     <li><a href="#-tecnologias">🛠 Tecnologias</a></li>
-    <li><a href="#-autor">💭 Autor</a>
+    <li><a href="#-autor">💻 Autor</a>
     <li><a href="#-como-construir-e-utilizar">ﾠ❓ Como construir e utilizar</a></li>
     <ul>
         <li><a href="#-materiais">🧰 Materiais</a></li>
