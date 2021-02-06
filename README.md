@@ -19,6 +19,7 @@
     <ul>
         <li><a href="#-materiais">🧰 Materiais</a></li>
         <li><a href="#%EF%B8%8F-esquemático">✍️ Esquemático</a></li>
+        <li><a href="#%EF%B8%8F-construção">🔨 Construção</a></li>
         <li><a href="#%EF%B8%8F-carregando-para-o-arduino">⚙️ Carregando para o Arduino</a></li>
     </ul>
     <li><a href="#-autor">💭 Autor</a>
@@ -76,6 +77,12 @@ Já outros podem ser reciclados; os fios e o plug de tomada que utilizamos foram
 ---
 
 <h2>✍️ Esquemático</h2>
+
+<p>🚧 Em construção 🚧</p>
+
+---
+
+<h2>🔨 Construção</h2>
 
 <p>🚧 Em construção 🚧</p>
 
