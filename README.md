@@ -11,11 +11,6 @@
     <img alt="Estrelas do projeto" src="https://img.shields.io/github/stars/tilnoene/chocadeira?style=social" />
 </div>
 
-outras linguas
-materiais: dicas para construir também 🇧🇷
-esquemático: subir pro tinekrcad se pá ao menos o design
-Utilizando materiais recicláveis ou com preço acessível
-
 <ul>
     <li><a href="#-sobre-o-projeto">💬 Sobre o projeto</a></li>
     <li><a href="#-resultados">✔️ Resultados</a></li>
@@ -39,6 +34,8 @@ Utilizando materiais recicláveis ou com preço acessível
 
 <h2>✔️ Resultados</h2>
 
+<p>🚧 Em construção 🚧</p>
+
 ---
 
 <h2>🛠 Tecnologias</h2>
@@ -54,19 +51,39 @@ Utilizando materiais recicláveis ou com preço acessível
 
 <h2>🧰 Materiais</h2>
 
-<p>carro</p>
+- Microcontrolador Arduino (utilizamos um Arduino Nano)
+- DHT11 - Sensor de umidade e temperatura
+- Módulo Relé
+- Fonte 9V 1A Bivolt
+- Jumpers macho-macho
+- Lâmpada LED ou Resistência
+- Isopor ou caixa de madeira
+- Fio elétrico
+- Plug de tomada macho
+
+### Opcionais
+- Protoboard (_evita solda nos componentes_)
+- Cooler / Fan (_controle automático da umidade_)
+- Display LCD 16x2 + Adaptador LCD I2C (_exibir as informações em tempo real_)
+- RTC DS3231 (_relógio_)
+- Ponte H modelo L293D ou L298N (_permite trabalhar com motores_)
+- Motor ou Servomotor (_rolagem automática dos ovos; requer módulo de relógio e ponte H_)
+
+Conforme listado, alguns itens são opcionais e vão de acordo com sua necessidade e disponibilidade.
+
+Já outros podem ser reciclados; os fios e o plug de tomada que utilizamos foram de equipamentos velhos e a fonte foi adaptada.
 
 ---
 
 <h2>✍️ Esquemático</h2>
 
-<p>carro</p>
+<p>🚧 Em construção 🚧</p>
 
 ---
 
 <h2>⚙️ Carregando para o Arduino</h2>
 
-<p>carro</p>
+<p>🚧 Em construção 🚧</p>
 
 ---
 
