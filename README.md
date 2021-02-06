@@ -83,7 +83,7 @@ Utilizando materiais recicláveis ou com preço acessível
     <img src="https://img.shields.io/badge/Tilnoene-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
 </a>
 <a href="mailto:victorvpn13@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="victorvpn13@gmail.com" />
+    <img src="https://img.shields.io/badge/victorvpn13@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="victorvpn13@gmail.com" />
 </a>
 
 ---
