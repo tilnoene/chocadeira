@@ -32,8 +32,7 @@ Utilizando materiais recicláveis ou com preço acessível
 
 <h2>💬 Sobre o projeto</h2>
 
-<p>Este projeto foi criado para um produtor rural visando atingir um preço acessível em relação as chocadeiras industriais.</p>
-<p>O gasto total do projeto foi em torno de R$250,00, enquanto uma chocadeira industrial está em torno de R$450,00.</p>
+<p>Este projeto foi criado para um produtor rural visando atingir um preço acessível em relação as chocadeiras comerciais.</p>
 
 ---
 
@@ -70,7 +69,7 @@ Utilizando materiais recicláveis ou com preço acessível
 
 ---
 
-<h2>Autor</h2>
+<h2>💻 Autor</h2>
 
 <table>
   <tr>
