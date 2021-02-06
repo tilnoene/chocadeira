@@ -79,11 +79,11 @@ Utilizando materiais recicláveis ou com preço acessível
 <a href="https://www.linkedin.com/in/victor-manuel-66b5a9202/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
 </a>
-<a href="mailto:victorvpn13@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
 <a href="https://github.com/tilnoene" target="_blank">
     <img src="https://img.shields.io/badge/Tilnoene-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+</a>
+<a href="mailto:victorvpn13@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="victorvpn13@gmail.com" />
 </a>
 
 ---
