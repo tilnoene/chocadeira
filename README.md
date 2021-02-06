@@ -10,26 +10,32 @@
 </div>
 
 <ul>
-    <li><a href="#sobre">💬 Sobre o projeto</a></li>
+    <li><a href="#-sobre-o-projeto">💬 Sobre o projeto</a></li>
     <li><a href="#-resultados">✔️ Resultados</a></li>
     <li><a href="#-tecnologias">🛠 Tecnologias</a></li>
     <li><a href="#-como-construir-e-utilizar">ﾠ❓ Como construir e utilizar</a></li>
     <ul>
-        <li><a href="#materiais">🧰 Materiais</a></li>
-        <li><a href="#esquematico">✍️ Esquemático</a></li>
-        <li><a href="#carregando-para-o-arduino">⚙️ Carregando para o Arduino</a></li>
+        <li><a href="#-materiais">🧰 Materiais</a></li>
+        <li><a href="#-esquematico">✍️ Esquemático</a></li>
+        <li><a href="#-carregando-para-o-arduino">⚙️ Carregando para o Arduino</a></li>
     </ul>
     <li><a href="#-autor">💭 Autor</a>
 </ul>
-# materiais: dicas para construir também 🇧🇷
-# esquemático: subir pro tinekrcad se pá ao menos o design
-<p>Utilizando materiais recicláveis ou com preço acessível</p>
 
 ---
 
-<h2>
-    💬 Sobre o projeto
-</h2>
+outras linguas
+materiais: dicas para construir também 🇧🇷
+esquemático: subir pro tinekrcad se pá ao menos o design
+Utilizando materiais recicláveis ou com preço acessível
+
+---
+
+<h2>💬 Sobre o projeto</h2>
+
+---
+
+<h2>✔️ Resultados</h2>
 
 ---
 
@@ -40,19 +46,20 @@
 
 ---
 
-<h2>
-    ❓ Como construir e utilizar
-</h2>
+<h2>❓ Como construir e utilizar</h2>
+
+<h2>🧰 Materiais</h2>
+
+<h2>✍️ Esquemático</h2>
 
 ---
 
-## 🦸 Autor
+<h2>⚙️ Carregando para o Arduino</h2>
 
 ---
 
-<h2>
-    Autor
-</h2>
+<h2>Autor</h2>
+
 <table>
   <tr>
     <td align="center"><a href="https://github.com/tilnoene" target="_blank"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/2254731?s=400&u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&v=4" width="100px;" alt="Victor Manuel (autor)"/><br /><sub><b>Victor Manuel</b></sub></a><br /></td>
@@ -68,3 +75,4 @@
     <img src="https://img.shields.io/badge/Tilnoene-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
 </a>
 
+---
