@@ -19,7 +19,7 @@
         <li><a href="#esquematico">✍️ Esquemático</a></li>
         <li><a href="#carregando-para-o-arduino">⚙️ Carregando para o Arduino</a></li>
     </ul>
-    <li><a href="#autor">💭 Autor</a>
+    <li><a href="#-autor">💭 Autor</a>
 </ul>
 # materiais: dicas para construir também 🇧🇷
 # esquemático: subir pro tinekrcad se pá ao menos o design
@@ -42,7 +42,11 @@
     ❓ Como construir e utilizar
 </h2>
 
-[tecnologiass](#tecnologias)
+---
+
+## 🦸 Autor
+
+---
 
 <h2>
     Autor
