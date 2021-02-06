@@ -11,8 +11,8 @@
 
 <ul>
     <li><a href="#sobre">💬 Sobre o projeto</a></li>
-    <li><a href="#-tecnologias">✔️ Resultados</a></li>
-    <li><a href="#tecnologias">🛠 Tecnologias</a></li>
+    <li><a href="#-resultados">✔️ Resultados</a></li>
+    <li><a href="#-tecnologias">🛠 Tecnologias</a></li>
     <li><a href="#-como-construir-e-utilizar">ﾠ❓ Como construir e utilizar</a></li>
     <ul>
         <li><a href="#materiais">🧰 Materiais</a></li>
@@ -25,18 +25,20 @@
 # esquemático: subir pro tinekrcad se pá ao menos o design
 <p>Utilizando materiais recicláveis ou com preço acessível</p>
 
+---
+
 <h2>
     💬 Sobre o projeto
 </h2>
 
-<h2>
-    🛠 Tecnologias
-</h2>
+---
 
-[tecnologias](#tecnologiass)
+<h2>🛠 Tecnologias</h2>
 
 <p>O projeto foi desenvolvido em <b>C++ (Arduino)</b></p>
 ﾠﾠ<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
+---
 
 <h2>
     ❓ Como construir e utilizar
