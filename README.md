@@ -4,10 +4,16 @@
 <p align="center">Chocadeira automática de baixo custo utilizando Arduino</p>
 
 <div align="center">
+    <a href="https://github.com/tilnoene/chocadeira/blob/main/README-en.md"><img alt="English README.md" src="https://img.shields.io/badge/README-English-blue"></a>
     <img alt="Licença" src="https://img.shields.io/github/license/tilnoene/chocadeira" />
     <img alt="Tamanho do código do projeto" src="https://img.shields.io/github/languages/code-size/tilnoene/chocadeira" />
     <img alt="Estrelas do projeto" src="https://img.shields.io/github/stars/tilnoene/chocadeira?style=social" />
 </div>
+
+outras linguas
+materiais: dicas para construir também 🇧🇷
+esquemático: subir pro tinekrcad se pá ao menos o design
+Utilizando materiais recicláveis ou com preço acessível
 
 <ul>
     <li><a href="#-sobre-o-projeto">💬 Sobre o projeto</a></li>
@@ -24,14 +30,10 @@
 
 ---
 
-outras linguas
-materiais: dicas para construir também 🇧🇷
-esquemático: subir pro tinekrcad se pá ao menos o design
-Utilizando materiais recicláveis ou com preço acessível
-
----
-
 <h2>💬 Sobre o projeto</h2>
+
+<p>Este projeto foi criado para um produtor rural visando atingir um preço acessível em relação as chocadeiras industriais.</p>
+<p>O gasto total do projeto foi em torno de R$250,00, enquanto uma chocadeira industrial está em torno de R$450,00.</p>
 
 ---
 
