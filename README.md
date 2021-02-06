@@ -2,6 +2,7 @@
     <img alt="Chocadeira com Arduino" src="./assets/banner_chocadeira.jpg" />
 </h1>
 <p align="center">Chocadeira automática de baixo custo utilizando Arduino</p>
+<p align="center"><b>🚧 Em construção 🚧</b></p>
 
 <div align="center">
     <a href="https://github.com/tilnoene/chocadeira/blob/main/README-en.md"><img alt="English README.md" src="https://img.shields.io/badge/README-English-blue"></a>
