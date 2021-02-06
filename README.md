@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="Chocadeira com Arduino" src="./assets/banner_chocadeira.jpg" />
 </h1>
-<p align="center">🐔 Chocadeira automática de baixo custo utilizando Arduino</p>
+<p align="center">Chocadeira automática de baixo custo utilizando Arduino</p>
 
 <div align="center">
     <img alt="Licença" src="https://img.shields.io/github/license/tilnoene/chocadeira" />
@@ -11,13 +11,13 @@
 
 <ul>
     <li><a href="#sobre">💬 Sobre o projeto</a></li>
-    <li><a href="#sobre">✔️ Resultados</a></li>
+    <li><a href="#resultados">✔️ Resultados</a></li>
     <li><a href="#tecnologias">🛠 Tecnologias</a></li>
-    <li><a href="#tutorial">ﾠ❓ Como construir e utilizar</a></li>
+    <li><a href="#-como-construir-e-utilizar">ﾠ❓ Como construir e utilizar</a></li>
     <ul>
         <li><a href="#materiais">🧰 Materiais</a></li>
         <li><a href="#esquematico">✍️ Esquemático</a></li>
-        <li><a href="#deploy">⚙️ Carregando para o Arduino</a></li>
+        <li><a href="#carregando-para-o-arduino">⚙️ Carregando para o Arduino</a></li>
     </ul>
     <li><a href="#autor">💭 Autor</a>
 </ul>
@@ -35,6 +35,10 @@
 
 <p>O projeto foi desenvolvido em <b>C++ (Arduino)</b></p>
 ﾠﾠ<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
+<h2>
+    ❓ Como construir e utilizar
+</h2>
 
 <h2>
     Autor
