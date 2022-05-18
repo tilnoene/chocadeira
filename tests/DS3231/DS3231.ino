@@ -12,7 +12,7 @@ void setup() {
   Serial.println("Booting...");
 
   // update RTC date and time (Year, Month, Day, Hour, Minute, Second)
-  clock.setDateTime(2022, 5, 17, 21, 19, 00);
+  // clock.setDateTime(2022, 5, 17, 21, 19, 0);
 }
 
 void loop() {
