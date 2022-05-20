@@ -16,26 +16,26 @@
   <ul>
     <li><a href="#-tecnologias">🛠 Tecnologias</a></li>
     <li><a href="#-materiais">🧰 Materiais</a></li>
-    <li><a href="#-esquemático">✍️ Esquemático</a></li>
+    <li><a href="#%EF%B8%8F-esquemático">✍️ Esquemático</a></li>
   </ul>
   
-  <li><a href="#-processo">🛠️ Processo</a></li>
+  <li><a href="#%EF%B8%8F-processo">🛠️ Processo</a></li>
   <ul>
     <li><a href="#-construção">🔨 Construção</a></li>
-    <li><a href="#-como-executar">⚙️ Como executar</a></li>
-    <li><a href="#-como-executar">❓ Como utilizar</a></li>
+    <li><a href="#%EF%B8%8F-como-executar">⚙️ Como executar</a></li>
+    <li><a href="#-como-utilizar">❓ Como utilizar</a></li>
   </ul>
 
-  <li><a href="#-resultados">✔️ Resultados</a></li>
+  <li><a href="#%EF%B8%8F-resultados">✔️ Resultados</a></li>
   <ul>
-    <li><a href="#-video">▶️ Vídeo</a></li>
+    <li><a href="#%EF%B8%8F-vídeo">▶️ Vídeo</a></li>
     <li><a href="#-fotos">📷 Fotos</a></li>
     <li><a href="#-custo-total">💲 Custo total</a></li>
   </ul>
 
-  <li><a href="#-resultados">🔮 Conclusões</a></li>
+  <li><a href="#-conclusões">🔮 Conclusões</a></li>
   <ul>
-    <li><a href="#-isopor-ou-madeira">🌡️ Temperatura e umidade ideais</a></li>
+    <li><a href="#%EF%B8%8F-temperatura-e-umidade-ideais">🌡️ Temperatura e umidade ideais</a></li>
     <li><a href="#-lâmpada-ou-resistência">💡 Lâmpada ou resistência</a></li>
     <li><a href="#-isopor-ou-madeira">📦 Isopor ou madeira</a></li>
     <li><a href="#-consumo-de-energia">⚡ Consumo de energia</a></li>
