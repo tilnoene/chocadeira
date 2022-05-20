@@ -4,8 +4,9 @@
 
 <p align="center">Chocadeira automática de baixo custo utilizando Arduino</p>
 
+<p align="center"><a href="https://github.com/tilnoene/chocadeira/blob/main/README-en.md">README in English</a></p>
+
 <div align="center">
-  <a href="https://github.com/tilnoene/chocadeira/blob/main/README-en.md"><img alt="English README" src="https://img.shields.io/badge/README-English-blue"></a>
   <img alt="Licença" src="https://img.shields.io/github/license/tilnoene/chocadeira" />
   <img alt="Tamanho do código do projeto" src="https://img.shields.io/github/languages/code-size/tilnoene/chocadeira" />
   <img alt="Estrelas do projeto" src="https://img.shields.io/github/stars/tilnoene/chocadeira?style=social" />
@@ -47,13 +48,13 @@
 
 <h2>💬 Sobre o projeto</h2>
 
-<p>Este projeto foi criado para um produtor rural visando atingir um preço acessível em relação as chocadeiras comerciais.</p>
+Este projeto foi criado para meu tio, um produtor rural, visando atingir um preço acessível em relação às chocadeiras comerciais.
 
-<p>A manutenibilidade é outro fator importante a ser considerado. Caso algum componente apresente problemas, é possível substituir adquirindo outro pela internet tendo um conhecimento mínimo sobre o projeto.</p>
+A mantenabilidade é outro fator importante a ser considerado. Caso algum componente apresente problemas, é possível substituir adquirindo outro pela internet tendo um conhecimento mínimo sobre o projeto.
 
-<p>E por se tratar de um protótipo, é possível incrementá-lo de acordo com seu conhecimento técnico e condição financeira. Caso não tenha condições no momento mas futuramente pretende ter essas funções, basta adquirir os componentes necessários e alterar o código ao invés de um produto novo.</p>
+Por se tratar de um protótipo, é possível incrementá-lo de acordo com seu conhecimento técnico e condição financeira, para isso basta adquirir os componentes necessários e alterar o código ao invés de adquirir uma chocadeira nova.
 
-<p>A primeira versão foi utilizando lâmpadas LED, e hoje estamos utilizando resistência.</p>
+A primeira versão foi utilizando lâmpadas LED, e hoje estamos utilizando resistência.
 
 <h3>🛠 Tecnologias</h3>
 
@@ -117,7 +118,7 @@ Uma grade foi feita de madeira para rolagem dos ovos, utilizando uma rede para p
 
 <img src="./assets/pictures/chocadeira_grade.jpg" style="width: 600px" alt="Grade da chocadeira" />
 
-A montagem do circuito segue o [esquemático](#-esquemático) e foi feita em uma protoboard para evitar solda. O circuito principal fica dentro de uma caixa de sapato e o relé na lateral da caixa com um suporte de madeira.
+A montagem do circuito segue o [esquemático](#-esquemático) e foi feita em uma protoboard para evitar solda. O circuito principal fica dentro de uma caixa de sapato e o relé fica na lateral da caixa com um suporte de madeira.
 
 <img src="./assets/pictures/chocadeira_relé.png" style="width: 600px" alt="Relé da chocadeira" />
 
@@ -125,7 +126,7 @@ Na tampa, colocamos o ventilador e a resistência da seguinte forma:
 
 <img src="./assets/pictures/chocadeira_tampa_com_resistência.jpg" style="width: 600px" alt="Tampa da chocadeira com resistência" />
 
-Por esse mesmo furo na tampa que passa o fio do ventilador também passa o sensor de temperatura e umidade, que fica pouco acima dos ovos.
+Por esse mesmo furo na tampa que passa o fio do ventilador também passa o sensor de temperatura e umidade, que fica um pouco acima dos ovos.
 
 <h3>⚙️ Como executar</h3>
 
