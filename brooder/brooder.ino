@@ -101,7 +101,7 @@ void setup() {
 
   digitalWrite(pinRelay, HIGH);
 
-  lampState = true;
+  lampState = false;
 
   // EEPROMClear();
 
@@ -120,11 +120,13 @@ void loop() {
   if (temperature <= minTemperature) {
     digitalWrite(pinRelay, LOW);
     
+    lampState = true;
     delay(3000);
 
     displayLCD();
     digitalWrite(pinRelay, HIGH);
 
+    lampState = false;
     delay(15000);
 
     displayLCD();
