@@ -66,7 +66,7 @@ float temperatureError = -1.0; // adjust sensor temperature error
 
 #define pinDHT 2
 #define pinRelay 7
-#define debugMode true // print on serial monitor
+#define debugMode false // print on serial monitor
 
 dht my_dht;
 LiquidCrystal_I2C lcd(0x27, 2, 1, 0, 4, 5, 6, 7, 3, POSITIVE);
@@ -120,15 +120,15 @@ void loop() {
   if (temperature <= minTemperature) {
     digitalWrite(pinRelay, LOW);
     
-    lampState = true;
     delay(3000);
 
+    lampState = true;
     displayLCD();
     digitalWrite(pinRelay, HIGH);
 
-    lampState = false;
     delay(15000);
 
+    lampState = false;
     displayLCD();
   }
   
