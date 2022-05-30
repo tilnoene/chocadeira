@@ -119,16 +119,17 @@ void loop() {
   // if the temperature is lower than minTemperature, turn on the relay for a few seconds
   if (temperature <= minTemperature) {
     digitalWrite(pinRelay, LOW);
-    
-    delay(3000);
-
     lampState = true;
+    
     displayLCD();
+    delay(3000);
+    displayLCD();
+
     digitalWrite(pinRelay, HIGH);
-
-    delay(15000);
-
     lampState = false;
+
+    displayLCD();
+    delay(15000);
     displayLCD();
   }
   
@@ -163,7 +164,7 @@ void displayLCD() {
   lcd.setCursor(0, 0);
   lcd.write(byte(2)); // thermomether
   lcd.setCursor(1, 0);
-  lcd.print(27);
+  lcd.print(temperature);
   lcd.setCursor(3, 0);
   lcd.write(byte(0)); // degree
   lcd.setCursor(4, 0);
@@ -172,7 +173,7 @@ void displayLCD() {
   lcd.setCursor(0, 1);
   lcd.write(byte(1)); // gout
   lcd.setCursor(1, 1);
-  lcd.print(80);
+  lcd.print(humidity);
   lcd.print("%");
 
   if (lampState) {
