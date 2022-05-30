@@ -140,11 +140,11 @@ void loop() {
 void debugData() {
   // status code (only temperature)
   if (temperature < 36) {
-      Serial.print("[02] ");
+    Serial.print("[02] ");
   } else if (temperature > 38) {
-      Serial.print("[03] ");
+    Serial.print("[03] ");
   } else {
-      Serial.print("[00] ");
+    Serial.print("[00] ");
   }
 
   // data info
@@ -161,7 +161,7 @@ void displayLCD() {
   lcd.setCursor(0, 0);
   lcd.write(byte(2)); // thermomether
   lcd.setCursor(1, 0);
-  lcd.print(temperature);
+  lcd.print(27);
   lcd.setCursor(3, 0);
   lcd.write(byte(0)); // degree
   lcd.setCursor(4, 0);
@@ -170,14 +170,19 @@ void displayLCD() {
   lcd.setCursor(0, 1);
   lcd.write(byte(1)); // gout
   lcd.setCursor(1, 1);
-  lcd.print(humidity);
+  lcd.print(80);
+  lcd.print("%");
 
   if (lampState) {
-    lcd.setCursor(0, 15);
+    lcd.setCursor(15, 0);
     lcd.write(byte(4)); // light on
+    lcd.setCursor(11, 0);
+    lcd.print("LIG");
   } else {
-    lcd.setCursor(0, 15);
+    lcd.setCursor(15, 0);
     lcd.write(byte(3)); // light off
+    lcd.setCursor(11, 0);
+    lcd.print("DES");
   }
 }
 
